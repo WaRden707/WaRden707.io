@@ -30,7 +30,7 @@ SECRET_KEY = 'django-insecure-ig9_fb5v-xe7sx%ei56r2$f5-$j(&f)m$9cn6x&x#1w$0eh)=+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = env.bool("DEBUG", default=False) #False QILISH KERAK 
 
-ALLOWED_HOSTS = ['.herokuapp.com','127.0.0.1'] #SERVER NOMINI YOZISH ex. HEROKU
+ALLOWED_HOSTS = ['Warden789.pythonanywhere.com'] #SERVER NOMINI YOZISH ex. HEROKU
 
 
 # Application definition
